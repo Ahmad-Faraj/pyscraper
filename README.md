@@ -1,5 +1,5 @@
 # Web Scraping Project
-Minimal Python scraper (web/local HTML to JSON). Before you steal it, Star the repo and follow <3
+Minimal Python scraper (web/local HTML to JSON). Before you steal it, Star the repo or follow :)
 
 ### Setup
 ```bash
